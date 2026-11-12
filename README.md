@@ -42,18 +42,18 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack | Status |
-| :--- | :--- | :--- | :--- |
-| 📺 **[uxplay-desktop](https://github.com/jorjanion/uxplay-desktop)** | Ultra-low-latency 60 FPS AirPlay screen mirror & audio receiver for Windows with Direct3D acceleration. | `C#` `.NET 8` `WPF` `Direct3D` `GStreamer` | [![Release](https://img.shields.io/github/v/release/jorjanion/uxplay-desktop?color=blue&style=flat-square&label=Release)](https://github.com/jorjanion/uxplay-desktop/releases) |
-| 🔑 **[WristKey](https://github.com/jorjanion/WristKey)** | Proximity auto-lock & hands-free unlock for Windows 10/11 using Apple Watch via BLE & DPAPI. | `Rust` `Tauri v2` `WinRT` `DPAPI` | [![Release](https://img.shields.io/github/v/release/jorjanion/WristKey?color=2ea44f&style=flat-square&label=Release)](https://github.com/jorjanion/WristKey/releases) |
-| 🔋 **[BatteryDock](https://github.com/jorjanion/BatteryDock)** | Minimalist Windows taskbar dock for peripheral battery levels (Logitech HID++, BLE, controllers). | `Rust` `Bluetooth LE` `Logitech HID++` `Win32` | [![Release](https://img.shields.io/github/v/release/jorjanion/BatteryDock?color=2ea44f&style=flat-square&label=Release)](https://github.com/jorjanion/BatteryDock/releases) |
-| 🐍 **[serpantinum-kde-plasma](https://github.com/jorjanion/serpantinum-kde-plasma)** | Serpantinum desktop aesthetic ported natively to KDE Plasma 6 (Wayland) with a fast Python daemon. | `QML` `KDE Plasma 6` `Wayland` `Python` | [![License](https://img.shields.io/badge/License-GPLv3-f87171?style=flat-square)](https://github.com/jorjanion/serpantinum-kde-plasma/blob/main/LICENSE) |
-| 📄 **[SimpleScan](https://github.com/jorjanion/SimpleScan)** | Native bloatware-free Windows document scanner with local offline OCR & searchable PDF export. | `C#` `.NET 9` `WPF` `WIA 2.0` | [![Release](https://img.shields.io/github/v/release/jorjanion/SimpleScan?color=512BD4&style=flat-square&label=Release)](https://github.com/jorjanion/SimpleScan/releases) |
+| Project | Description | Stack | Stars | Status |
+| :--- | :--- | :--- | :---: | :--- |
+| 📺 **[uxplay-desktop](https://github.com/jorjanion/uxplay-desktop)** | Ultra-low-latency 60 FPS AirPlay screen mirror & audio receiver for Windows with Direct3D acceleration. | `C#` `.NET 8` `WPF` `Direct3D` `GStreamer` | [![Stars](https://img.shields.io/github/stars/jorjanion/uxplay-desktop?style=flat-square&color=eac54f&labelColor=24292e&label=%E2%98%85)](https://github.com/jorjanion/uxplay-desktop/stargazers) | [![Release](https://img.shields.io/github/v/release/jorjanion/uxplay-desktop?color=blue&style=flat-square&label=Release)](https://github.com/jorjanion/uxplay-desktop/releases) |
+| 🔑 **[WristKey](https://github.com/jorjanion/WristKey)** | Proximity auto-lock & hands-free unlock for Windows 10/11 using Apple Watch via BLE & DPAPI. | `Rust` `Tauri v2` `WinRT` `DPAPI` | [![Stars](https://img.shields.io/github/stars/jorjanion/WristKey?style=flat-square&color=eac54f&labelColor=24292e&label=%E2%98%85)](https://github.com/jorjanion/WristKey/stargazers) | [![Release](https://img.shields.io/github/v/release/jorjanion/WristKey?color=2ea44f&style=flat-square&label=Release)](https://github.com/jorjanion/WristKey/releases) |
+| 🔋 **[BatteryDock](https://github.com/jorjanion/BatteryDock)** | Minimalist Windows taskbar dock for peripheral battery levels (Logitech HID++, BLE, controllers). | `Rust` `Bluetooth LE` `Logitech HID++` `Win32` | [![Stars](https://img.shields.io/github/stars/jorjanion/BatteryDock?style=flat-square&color=eac54f&labelColor=24292e&label=%E2%98%85)](https://github.com/jorjanion/BatteryDock/stargazers) | [![Release](https://img.shields.io/github/v/release/jorjanion/BatteryDock?color=2ea44f&style=flat-square&label=Release)](https://github.com/jorjanion/BatteryDock/releases) |
+| 🐍 **[serpantinum-kde-plasma](https://github.com/jorjanion/serpantinum-kde-plasma)** | Serpantinum desktop aesthetic ported natively to KDE Plasma 6 (Wayland) with a fast Python daemon. | `QML` `KDE Plasma 6` `Wayland` `Python` | [![Stars](https://img.shields.io/github/stars/jorjanion/serpantinum-kde-plasma?style=flat-square&color=eac54f&labelColor=24292e&label=%E2%98%85)](https://github.com/jorjanion/serpantinum-kde-plasma/stargazers) | [![License](https://img.shields.io/badge/License-GPLv3-f87171?style=flat-square)](https://github.com/jorjanion/serpantinum-kde-plasma/blob/main/LICENSE) |
+| 📄 **[SimpleScan](https://github.com/jorjanion/SimpleScan)** | Native bloatware-free Windows document scanner with local offline OCR & searchable PDF export. | `C#` `.NET 9` `WPF` `WIA 2.0` | [![Stars](https://img.shields.io/github/stars/jorjanion/SimpleScan?style=flat-square&color=eac54f&labelColor=24292e&label=%E2%98%85)](https://github.com/jorjanion/SimpleScan/stargazers) | [![Release](https://img.shields.io/github/v/release/jorjanion/SimpleScan?color=512BD4&style=flat-square&label=Release)](https://github.com/jorjanion/SimpleScan/releases) |
 
 ---
 
-<p align="center">
-  <a href="https://github.com/jorjanion">
-    <img src="https://github-readme-stats.vercel.app/api?username=jorjanion&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jorge's GitHub Stats" />
-  </a>
-</p>
+## 🤝 Open Source Contributions
+
+| Project | Description | Contribution | Stack | Stars |
+| :--- | :--- | :--- | :--- | :---: |
+| 🌌 **[Astraeus](https://github.com/Icetist/Astraeus)** | Native dynamic island for Windows that drips open from the edge of your screen. | [PR #8 (Merged)](https://github.com/Icetist/Astraeus/pull/8) · Island status widget layout fix | `C++20` `Direct2D` `DirectComposition` `Win32` | [![Stars](https://img.shields.io/github/stars/Icetist/Astraeus?style=flat-square&color=eac54f&labelColor=24292e&label=%E2%98%85)](https://github.com/Icetist/Astraeus/stargazers) |
