@@ -7,6 +7,7 @@
 
 <p align="left">
   <a href="https://github.com/jorjanion"><img src="https://img.shields.io/github/followers/jorjanion?style=flat-square&logo=github&label=Followers&color=24292e" alt="GitHub Followers" /></a>
+  <a href="https://github.com/jorjanion?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/jorjanion?style=flat-square&logo=github&label=Total%20Stars&color=eac54f&labelColor=24292e" alt="Total Stars" /></a>
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Systems-blue?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Status-Undergraduate%20Software%20Engineer-0078D6?style=flat-square" alt="Status" />
 </p>
