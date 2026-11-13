@@ -55,5 +55,5 @@
 ## 🤝 Open Source Contributions
 
 | Project | Description | Contribution | Stack | Stars |
-| :--- | :--- | :--- | :--- | :---: |
-| 🌌 **[Astraeus](https://github.com/Icetist/Astraeus)** | Native dynamic island for Windows that drips open from the edge of your screen. | [PR #8 (Merged)](https://github.com/Icetist/Astraeus/pull/8) · Island status widget layout fix | `C++20` `Direct2D` `DirectComposition` `Win32` | [![Stars](https://img.shields.io/github/stars/Icetist/Astraeus?style=flat-square&color=eac54f&labelColor=24292e&label=%E2%98%85)](https://github.com/Icetist/Astraeus/stargazers) |
+| :--- | :--- | :---: | :--- | :---: |
+| 🌌 **[Astraeus](https://github.com/Icetist/Astraeus)** | Native dynamic island for Windows that drips open from the edge of your screen. | [![PRs merged](https://img.shields.io/github/issues-search?query=repo%3AIcetist%2FAstraeus%20is%3Amerged%20author%3Ajorjanion&label=PRs%20merged&style=flat-square&color=8957e5&labelColor=24292e)](https://github.com/Icetist/Astraeus/pulls?q=is%3Amerged+author%3Ajorjanion) | `C++20` `Direct2D` `DirectComposition` `Win32` | [![Stars](https://img.shields.io/github/stars/Icetist/Astraeus?style=flat-square&color=eac54f&labelColor=24292e&label=%E2%98%85)](https://github.com/Icetist/Astraeus/stargazers) |
